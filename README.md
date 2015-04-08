@@ -1,6 +1,9 @@
 Homebrew-flyway
 ===============
 
+**[DEPRECATED]**
+[Official formula is ready](https://github.com/Homebrew/homebrew/blob/master/Library/Formula/flyway.rb)
+
 Homebrew formula for [Flyway](http://flywaydb.org)
 
 ## install by tapping
